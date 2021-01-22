@@ -1,5 +1,15 @@
  <b>
- <h3> Readymade Node/express + Socket.io Server with MYSQL Database </h3> </b> 
+ <h2> Readymade Node/express + Socket.io Server with MYSQL Database </h2> </b> 
+
+
+<h3> Installation </h3> 
+
+* npm install
+* import sqlfile in the root to your database
+
+
+<h3> USAGE </h3>
+
 
 STEPS
 CLIENT 
